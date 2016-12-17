@@ -1,4 +1,2 @@
 # hello-world
-This is a tutorial to create a hello-world repository
-
-I am learning all about Apple products today. This hello-world tutorial was successful and was very well written.
+This is a repo to show how you can create lists and apply comments to get stuff done.
